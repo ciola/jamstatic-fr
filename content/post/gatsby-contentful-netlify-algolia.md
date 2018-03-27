@@ -107,7 +107,7 @@ Sympa.
 
 Toutefois une fois que j'ai eu mis tout ça en place, il s'est avéré que j'avais quelques problèmes dans mon implémentation qui m'ont obligé à demander de l'aide au support. Je recevais des emails relatifs à l'utilisation du quota alors que j'étais persuadé d'être encore très loin d'avoir atteint les limites de l'usage autorisé.
 
-L'ironie a voulu que je découvre [DocSearch](https://community.algolia.com/docsearch/) d'Algolia à ce moment-là. Et comme le ferait tout bon développeur, j'ai mis tout mon travail à la poubelle et je me suis inscrit sur DocSearch. Pour faire cours, DocSearch va crawler votre site toutes les 24 heures et mettre à jour l'index pour vous. Vous ajoutez une balise script qui relie votre champ de rechercher à leur API. Vous affinez les styles avec un peu de CSS et bim, c'est terminé.
+L'ironie a voulu que je découvre [DocSearch](https://community.algolia.com/docsearch/) d'Algolia à ce moment-là. Et comme le ferait tout bon développeur, j'ai mis tout mon travail à la poubelle et je me suis inscrit sur DocSearch. Pour faire court, DocSearch va crawler votre site toutes les 24 heures et mettre à jour l'index pour vous. Vous ajoutez une balise script qui relie votre champ de rechercher à leur API. Vous affinez les styles avec un peu de CSS et bim, c'est terminé.
 
 {{< figure src="/assets/images/bythebook/algolia-search.png" caption="Algolia DocSearch FTW" >}}
 
